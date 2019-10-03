@@ -1,0 +1,15 @@
+C:\Users\warre\RiderProjects\WebApplication7\WebApplication7\bin\Debug\netcoreapp2.1\WebApplication7.dll.config
+C:\Users\warre\RiderProjects\WebApplication7\WebApplication7\bin\Debug\netcoreapp2.1\WebApplication7.deps.json
+C:\Users\warre\RiderProjects\WebApplication7\WebApplication7\bin\Debug\netcoreapp2.1\WebApplication7.runtimeconfig.json
+C:\Users\warre\RiderProjects\WebApplication7\WebApplication7\bin\Debug\netcoreapp2.1\WebApplication7.runtimeconfig.dev.json
+C:\Users\warre\RiderProjects\WebApplication7\WebApplication7\bin\Debug\netcoreapp2.1\WebApplication7.dll
+C:\Users\warre\RiderProjects\WebApplication7\WebApplication7\bin\Debug\netcoreapp2.1\WebApplication7.pdb
+C:\Users\warre\RiderProjects\WebApplication7\WebApplication7\obj\Debug\netcoreapp2.1\WebApplication7.csprojAssemblyReference.cache
+C:\Users\warre\RiderProjects\WebApplication7\WebApplication7\obj\Debug\netcoreapp2.1\WebApplication7.csproj.CoreCompileInputs.cache
+C:\Users\warre\RiderProjects\WebApplication7\WebApplication7\obj\Debug\netcoreapp2.1\WebApplication7.RazorAssemblyInfo.cache
+C:\Users\warre\RiderProjects\WebApplication7\WebApplication7\obj\Debug\netcoreapp2.1\WebApplication7.RazorAssemblyInfo.cs
+C:\Users\warre\RiderProjects\WebApplication7\WebApplication7\obj\Debug\netcoreapp2.1\WebApplication7.AssemblyInfoInputs.cache
+C:\Users\warre\RiderProjects\WebApplication7\WebApplication7\obj\Debug\netcoreapp2.1\WebApplication7.AssemblyInfo.cs
+C:\Users\warre\RiderProjects\WebApplication7\WebApplication7\obj\Debug\netcoreapp2.1\WebApplication7.RazorTargetAssemblyInfo.cache
+C:\Users\warre\RiderProjects\WebApplication7\WebApplication7\obj\Debug\netcoreapp2.1\WebApplication7.dll
+C:\Users\warre\RiderProjects\WebApplication7\WebApplication7\obj\Debug\netcoreapp2.1\WebApplication7.pdb
